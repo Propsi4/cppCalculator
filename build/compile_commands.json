@@ -1,0 +1,26 @@
+[
+{
+  "directory": "G:/OneDrive/Desktop/OOP/lab2.7/calculator/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/calculator.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\calculator.dir\\calculator_autogen\\mocs_compilation.cpp.obj -c G:\\OneDrive\\Desktop\\OOP\\lab2.7\\calculator\\build\\calculator_autogen\\mocs_compilation.cpp",
+  "file": "G:/OneDrive/Desktop/OOP/lab2.7/calculator/build/calculator_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "G:/OneDrive/Desktop/OOP/lab2.7/calculator/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/calculator.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\calculator.dir\\main.cpp.obj -c G:\\OneDrive\\Desktop\\OOP\\lab2.7\\calculator\\main.cpp",
+  "file": "G:/OneDrive/Desktop/OOP/lab2.7/calculator/main.cpp",
+  "output": "CMakeFiles/calculator.dir/main.cpp.obj"
+},
+{
+  "directory": "G:/OneDrive/Desktop/OOP/lab2.7/calculator/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/calculator.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\calculator.dir\\calcwindow.cpp.obj -c G:\\OneDrive\\Desktop\\OOP\\lab2.7\\calculator\\calcwindow.cpp",
+  "file": "G:/OneDrive/Desktop/OOP/lab2.7/calculator/calcwindow.cpp",
+  "output": "CMakeFiles/calculator.dir/calcwindow.cpp.obj"
+},
+{
+  "directory": "G:/OneDrive/Desktop/OOP/lab2.7/calculator/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/calculator.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\calculator.dir\\Calculation.cpp.obj -c G:\\OneDrive\\Desktop\\OOP\\lab2.7\\calculator\\Calculation.cpp",
+  "file": "G:/OneDrive/Desktop/OOP/lab2.7/calculator/Calculation.cpp",
+  "output": "CMakeFiles/calculator.dir/Calculation.cpp.obj"
+}
+]

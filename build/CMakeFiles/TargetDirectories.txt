@@ -1,0 +1,6 @@
+G:/OneDrive/Desktop/OOP/lab2.7/calculator/build/CMakeFiles/calculator.dir
+G:/OneDrive/Desktop/OOP/lab2.7/calculator/build/CMakeFiles/package.dir
+G:/OneDrive/Desktop/OOP/lab2.7/calculator/build/CMakeFiles/package_source.dir
+G:/OneDrive/Desktop/OOP/lab2.7/calculator/build/CMakeFiles/edit_cache.dir
+G:/OneDrive/Desktop/OOP/lab2.7/calculator/build/CMakeFiles/rebuild_cache.dir
+G:/OneDrive/Desktop/OOP/lab2.7/calculator/build/CMakeFiles/calculator_autogen.dir
